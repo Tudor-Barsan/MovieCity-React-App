@@ -9,4 +9,5 @@ Learned React by creating a movie browsing app where users can search for and fi
 * Connect and fetch data from an API (OMBD API)     
 
 
-![moviecity](https://user-images.githubusercontent.com/112269862/209244888-caabd20b-1d0b-47af-8c26-0d2eabd304fa.png)
+
+![moviecity](https://user-images.githubusercontent.com/112269862/209245063-e98e820c-b86d-46c3-9291-fc77e8115860.png)
